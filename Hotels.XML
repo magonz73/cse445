@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+	<Hotel>
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearstAirport>Sky Harbor</NearstAirport>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Garden Inn</Name>
+		<Phone>602-667-3200</Phone>
+		<Address>
+			<Number>3838</Number>
+			<Street>E Van Buren St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Rating>3.5</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Holiday Inn Express</Name>
+		<Phone>623-583-1900</Phone>
+		<Address>
+			<Number>16537</Number>
+			<Street>W Bell Rd</Street>
+			<City>Surprise</City>
+			<State>AZ</State>
+			<Zip>85374</Zip>
+			<NearestAirport>Phoenix Deer Valley</NearestAirport>
+		</Address>
+		<Rating>3.5</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Courtyard Phoenix Airport</Name>
+		<Phone>480-966-4300</Phone>
+		<Address>
+			<Number>2621</Number>
+			<Street>S 47th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Rating>4.1</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Country Inn and Suites by Radisson, Phoenix Airport, AZ</Name>
+		<Phone>480-306-4343</Phone>
+		<Address>
+			<Number>4702</Number>
+			<Street>E University Dr</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Rating>3.8</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Four Points by Sheraton</Name>
+		<Phone>480-579-2100</Phone>
+		<Address>
+			<Number>6850</Number>
+			<Street>E Williams Field Rd</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85212</Zip>
+			<NearestAirport>Mesa Gateway Aiport</NearestAirport>
+		</Address>
+		<Rating>4.4</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
+		<Phone>602-225-9000</Phone>
+		<Address>
+			<Number>2000</Number>
+			<Street>W Westcourt Way</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Rating>4.3</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Holiday Inn Express and Suites</Name>
+		<Phone>480-507-3000</Phone>
+		<Address>
+			<Number>5530</Number>
+			<Street>S Power Rd</Street>
+			<City>Gilbert</City>
+			<State>AZ</State>
+			<Zip>85295</Zip>
+			<NearestAirport>Mesa Gateway Airport</NearestAirport>
+		</Address>
+		<Rating>4.6</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Courtyard Phoenix Mesa Gateway Airport</Name>
+		<Phone>480-351-7088</Phone>
+		<Address>
+			<Number>6907</Number>
+			<Street>E Ray Rd</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85212</Zip>
+			<NearestAirport>Mesa Gateway Airport</NearestAirport>
+		</Address>
+		<Rating>4.4</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Westin Kierland Villas, Scottsdale</Name>
+		<Phone>480-624-1700</Phone>
+		<Address>
+			<Number>15620</Number>
+			<Street>N Clubgate Dr</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85254</Zip>
+			<NearestAirport>Scottsdale Airport</NearestAirport>
+		</Address>
+		<Rating>4.6</Rating>
+	</Hotel>
+
+</Hotels>
