@@ -24,7 +24,7 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
+			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>3.5</Rating>
 	</Hotel>
@@ -38,7 +38,7 @@
 			<City>Surprise</City>
 			<State>AZ</State>
 			<Zip>85374</Zip>
-			<NearestAirport>Phoenix Deer Valley</NearestAirport>
+			<NearstAirport>Phoenix Deer Valley</NearstAirport>
 		</Address>
 		<Rating>3.5</Rating>
 	</Hotel>
@@ -52,7 +52,7 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
+			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>4.1</Rating>
 	</Hotel>
@@ -66,7 +66,7 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
+			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>3.8</Rating>
 	</Hotel>
@@ -80,7 +80,7 @@
 			<City>Mesa</City>
 			<State>AZ</State>
 			<Zip>85212</Zip>
-			<NearestAirport>Mesa Gateway Aiport</NearestAirport>
+			<NearstAirport>Mesa Gateway Aiport</NearstAirport>
 		</Address>
 		<Rating>4.4</Rating>
 	</Hotel>
@@ -94,7 +94,7 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85282</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
+			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>4.3</Rating>
 	</Hotel>
@@ -108,7 +108,7 @@
 			<City>Gilbert</City>
 			<State>AZ</State>
 			<Zip>85295</Zip>
-			<NearestAirport>Mesa Gateway Airport</NearestAirport>
+			<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		</Address>
 		<Rating>4.6</Rating>
 	</Hotel>
@@ -122,7 +122,7 @@
 			<City>Mesa</City>
 			<State>AZ</State>
 			<Zip>85212</Zip>
-			<NearestAirport>Mesa Gateway Airport</NearestAirport>
+			<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		</Address>
 		<Rating>4.4</Rating>
 	</Hotel>
@@ -136,7 +136,7 @@
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85254</Zip>
-			<NearestAirport>Scottsdale Airport</NearestAirport>
+			<NearstAirport>Scottsdale Airport</NearstAirport>
 		</Address>
 		<Rating>4.6</Rating>
 	</Hotel>
