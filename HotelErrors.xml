@@ -37,7 +37,7 @@
       <City>Surprise</City>
       <State>AZ</State>
       <Zip>85374</Zip>
-	  <!-- Missing Address -->
+	  <!-- Missing closing tag for <Address? -->
       <NearestAirport>Phoenix Deer Valley</NearestAirport>
     <Rating>3.5</Rating>
   </Hotel>
