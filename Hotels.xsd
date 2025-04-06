@@ -1,13 +1,18 @@
+<!-- Hotels.xsd -->
+<!-- Assignment 4 XML -->
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:element name="Hotels">
+    <!-- Root element that has a list of hotels -->
     <xs:complexType>
       <xs:sequence>
         <xs:element name="Hotel" maxOccurs="unbounded">
+          <!-- Name of individual hotel in directory -->
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Name" type="xs:string" />
               <xs:element name="Phone" type="xs:string" maxOccurs="unbounded" />
+              <!-- Note: Multiple Phone Numbers are allowed for each hotel -->
               <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
@@ -18,10 +23,12 @@
                     <xs:element name="Zip" type="xs:string" />
                     </xs:sequence>
                     <xs:attribute name="NearestAirport" type="xs:string" use="optional" />
+                  <!-- Attribute that specifies the name of the Nearest Airport -->
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
             <xs:attribute name="Rating" type="xs:decimal" use="optional" />
+            <!-- Rating: Optional attribute that represents hotel's rating -->
           </xs:complexType>
         </xs:element>
       </xs:sequence>
