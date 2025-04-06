@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-	<!-- Root element that has the list of all hotels -->
+		<!-- Root element that has the list of all hotels -->
 	<Hotel>
 		<!-- Represents an individual hotel and mutliple hotels are allowed in the Hotels directory -->
 		<Name>Westin</Name>
@@ -172,6 +172,5 @@
 		<Rating>4.6</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
-
 </Hotels>
 <!-- End of Hotels.xml -->
