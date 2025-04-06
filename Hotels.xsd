@@ -26,7 +26,7 @@
             <xs:attribute name="Rating" type="xs:decimal" use="required" />
             <!-- Rating: Required attribute representing the hotel's rating -->
             <xs:attribute name="NearstAirport" type="xs:string" use="optional" />
-            <!-- NearestAirport: Optional attribute specifying the nearest airport -->
+            <!-- NearstAirport: Optional attribute specifying the nearst airport -->
           </xs:complexType>
         </xs:element>
       </xs:sequence>
