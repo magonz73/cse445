@@ -15,8 +15,8 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
-		</Address>
+		</Address>		
+		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>4.2</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -32,8 +32,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>3.5</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -48,9 +48,9 @@
 			<Street>W Bell Rd</Street>
 			<City>Surprise</City>
 			<State>AZ</State>
-			<Zip>85374</Zip>
-			<NearstAirport>Phoenix Deer Valley</NearstAirport>
+			<Zip>85374</Zip>			
 		</Address>
+		<NearstAirport>Phoenix Deer Valley</NearstAirport>
 		<Rating>3.5</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -65,9 +65,9 @@
 			<Street>S 47th St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
+			<Zip>85034</Zip>			
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>4.1</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -82,9 +82,9 @@
 			<Street>E University Dr</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
+			<Zip>85034</Zip>			
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>3.8</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -99,9 +99,9 @@
 			<Street>E Williams Field Rd</Street>
 			<City>Mesa</City>
 			<State>AZ</State>
-			<Zip>85212</Zip>
-			<NearstAirport>Mesa Gateway Aiport</NearstAirport>
+			<Zip>85212</Zip>			
 		</Address>
+		<NearstAirport>Mesa Gateway Aiport</NearstAirport>
 		<Rating>4.4</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -116,9 +116,9 @@
 			<Street>W Westcourt Way</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
-			<Zip>85282</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
+			<Zip>85282</Zip>			
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>4.3</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -133,9 +133,9 @@
 			<Street>S Power Rd</Street>
 			<City>Gilbert</City>
 			<State>AZ</State>
-			<Zip>85295</Zip>
-			<NearstAirport>Mesa Gateway Airport</NearstAirport>
+			<Zip>85295</Zip>			
 		</Address>
+		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		<Rating>4.6</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -150,9 +150,9 @@
 			<Street>E Ray Rd</Street>
 			<City>Mesa</City>
 			<State>AZ</State>
-			<Zip>85212</Zip>
-			<NearstAirport>Mesa Gateway Airport</NearstAirport>
+			<Zip>85212</Zip>			
 		</Address>
+		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		<Rating>4.4</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
@@ -167,9 +167,9 @@
 			<Street>N Clubgate Dr</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
-			<Zip>85254</Zip>
-			<NearstAirport>Scottsdale Airport</NearstAirport>
+			<Zip>85254</Zip>			
 		</Address>
+		<NearstAirport>Scottsdale Airport</NearstAirport>
 		<Rating>4.6</Rating>
 		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
