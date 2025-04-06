@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-		<!-- Root element that has the list of all hotels -->
-	<Hotel>
+	<Hotel NearstAirport="Sky Harbor" Rating="4.2">
 		<!-- Represents an individual hotel and mutliple hotels are allowed in the Hotels directory -->
 		<Name>Westin</Name>
 		<!-- Name of hotel -->
@@ -15,12 +14,9 @@
 			<State>AZ</State>
 			<Zip>85281</Zip>
 		</Address>		
-		<Rating>4.2</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Sky Harbor" Rating="3.5">
 		<Name>Hilton Garden Inn</Name>
 		<!-- Name of Hotel -->
 		<Phone>602-667-3200</Phone>		
@@ -32,12 +28,9 @@
 			<State>AZ</State>
 			<Zip>85008</Zip>
 		</Address>
-		<Rating>3.5</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Phoenix Deer Valley" Rating="3.5">
 		<Name>Holiday Inn Express</Name>
 		<!-- Name of hotel -->
 		<Phone>623-583-1900</Phone>
@@ -49,12 +42,9 @@
 			<State>AZ</State>
 			<Zip>85374</Zip>			
 		</Address>
-		<Rating>3.5</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Phoenix Deer Valley</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Sky Harbor" Rating="4.1">
 		<Name>Courtyard Phoenix Airport</Name>
 		<!-- Name of hotel -->
 		<Phone>480-966-4300</Phone>
@@ -66,12 +56,9 @@
 			<State>AZ</State>
 			<Zip>85034</Zip>			
 		</Address>
-		<Rating>4.1</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Sky Harbor" Rating="3.8">
 		<Name>Country Inn and Suites by Radisson, Phoenix Airport, AZ</Name>
 		<!-- Name of hotel -->
 		<Phone>480-306-4343</Phone>
@@ -83,12 +70,9 @@
 			<State>AZ</State>
 			<Zip>85034</Zip>			
 		</Address>
-		<Rating>3.8</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Mesa Gateway Airport" Rating="4.4">
 		<Name>Four Points by Sheraton</Name>
 		<!-- Name of hotel -->
 		<Phone>480-579-2100</Phone>
@@ -100,12 +84,9 @@
 			<State>AZ</State>
 			<Zip>85212</Zip>			
 		</Address>
-		<Rating>4.4</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Mesa Gateway Aiport</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Sky Harbor" Rating="4.3">
 		<Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
 		<!-- Name of hotel -->
 		<Phone>602-225-9000</Phone>
@@ -117,12 +98,9 @@
 			<State>AZ</State>
 			<Zip>85282</Zip>			
 		</Address>
-		<Rating>4.3</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Mesa Gateway Airport" Rating="4.6">
 		<Name>Holiday Inn Express and Suites</Name>
 		<!-- Name of hotel -->
 		<Phone>480-507-3000</Phone>
@@ -134,12 +112,9 @@
 			<State>AZ</State>
 			<Zip>85295</Zip>			
 		</Address>
-		<Rating>4.6</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Mesa Gateway Airport" Rating="4.4">
 		<Name>Courtyard Phoenix Mesa Gateway Airport</Name>
 		<!-- Name of hotel -->
 		<Phone>480-351-7088</Phone>
@@ -151,12 +126,9 @@
 			<State>AZ</State>
 			<Zip>85212</Zip>			
 		</Address>
-		<Rating>4.4</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 	</Hotel>
 
-	<Hotel>
+	<Hotel NearstAirport="Scottsdale Airport" Rating="4.6">
 		<Name>The Westin Kierland Villas, Scottsdale</Name>
 		<!-- Name of hotel -->
 		<Phone>480-624-1700</Phone>
@@ -168,8 +140,5 @@
 			<State>AZ</State>
 			<Zip>85254</Zip>			
 		</Address>
-		<Rating>4.6</Rating>
-		<!-- Rating associated to Hotels star ratings -->
-		<NearstAirport>Scottsdale Airport</NearstAirport>
 	</Hotel>
 </Hotels>
