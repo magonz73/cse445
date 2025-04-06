@@ -1,9 +1,14 @@
+<!-- Hotels.xml -->
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
+	<!-- Root element that has the list of all hotels -->
 	<Hotel>
+		<!-- Represents an individual hotel and mutliple hotels are allowed in the Hotels directory -->
 		<Name>Westin</Name>
+		<!-- Name of hotel -->
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>11</Number>
 			<Street>E 7th St</Street>
@@ -13,11 +18,14 @@
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>4.2</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Hilton Garden Inn</Name>
-		<Phone>602-667-3200</Phone>
+		<!-- Name of Hotel -->
+		<Phone>602-667-3200</Phone>		
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>3838</Number>
 			<Street>E Van Buren St</Street>
@@ -27,11 +35,14 @@
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>3.5</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Holiday Inn Express</Name>
+		<!-- Name of hotel -->
 		<Phone>623-583-1900</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>16537</Number>
 			<Street>W Bell Rd</Street>
@@ -41,11 +52,14 @@
 			<NearstAirport>Phoenix Deer Valley</NearstAirport>
 		</Address>
 		<Rating>3.5</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Courtyard Phoenix Airport</Name>
+		<!-- Name of hotel -->
 		<Phone>480-966-4300</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>2621</Number>
 			<Street>S 47th St</Street>
@@ -55,11 +69,14 @@
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>4.1</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Country Inn and Suites by Radisson, Phoenix Airport, AZ</Name>
+		<!-- Name of hotel -->
 		<Phone>480-306-4343</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>4702</Number>
 			<Street>E University Dr</Street>
@@ -69,11 +86,14 @@
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>3.8</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Four Points by Sheraton</Name>
+		<!-- Name of hotel -->
 		<Phone>480-579-2100</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>6850</Number>
 			<Street>E Williams Field Rd</Street>
@@ -83,11 +103,14 @@
 			<NearstAirport>Mesa Gateway Aiport</NearstAirport>
 		</Address>
 		<Rating>4.4</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
+		<!-- Name of hotel -->
 		<Phone>602-225-9000</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>2000</Number>
 			<Street>W Westcourt Way</Street>
@@ -97,11 +120,14 @@
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 		<Rating>4.3</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Holiday Inn Express and Suites</Name>
+		<!-- Name of hotel -->
 		<Phone>480-507-3000</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>5530</Number>
 			<Street>S Power Rd</Street>
@@ -111,11 +137,14 @@
 			<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		</Address>
 		<Rating>4.6</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>Courtyard Phoenix Mesa Gateway Airport</Name>
+		<!-- Name of hotel -->
 		<Phone>480-351-7088</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>6907</Number>
 			<Street>E Ray Rd</Street>
@@ -125,11 +154,14 @@
 			<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		</Address>
 		<Rating>4.4</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 	<Hotel>
 		<Name>The Westin Kierland Villas, Scottsdale</Name>
+		<!-- Name of hotel -->
 		<Phone>480-624-1700</Phone>
+		<!-- Phone number associated with hotel. Can have two numbers -->
 		<Address>
 			<Number>15620</Number>
 			<Street>N Clubgate Dr</Street>
@@ -139,6 +171,8 @@
 			<NearstAirport>Scottsdale Airport</NearstAirport>
 		</Address>
 		<Rating>4.6</Rating>
+		<!-- Rating associated to Hotels star ratings -->
 	</Hotel>
 
 </Hotels>
+<!-- End of Hotels.xml -->
