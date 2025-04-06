@@ -15,9 +15,9 @@
 			<State>AZ</State>
 			<Zip>85281</Zip>
 		</Address>		
-		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>4.2</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -32,9 +32,9 @@
 			<State>AZ</State>
 			<Zip>85008</Zip>
 		</Address>
-		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>3.5</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -49,9 +49,9 @@
 			<State>AZ</State>
 			<Zip>85374</Zip>			
 		</Address>
-		<NearstAirport>Phoenix Deer Valley</NearstAirport>
 		<Rating>3.5</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Phoenix Deer Valley</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -66,9 +66,9 @@
 			<State>AZ</State>
 			<Zip>85034</Zip>			
 		</Address>
-		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>4.1</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -83,9 +83,9 @@
 			<State>AZ</State>
 			<Zip>85034</Zip>			
 		</Address>
-		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>3.8</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -100,9 +100,9 @@
 			<State>AZ</State>
 			<Zip>85212</Zip>			
 		</Address>
-		<NearstAirport>Mesa Gateway Aiport</NearstAirport>
 		<Rating>4.4</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Mesa Gateway Aiport</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -117,9 +117,9 @@
 			<State>AZ</State>
 			<Zip>85282</Zip>			
 		</Address>
-		<NearstAirport>Sky Harbor</NearstAirport>
 		<Rating>4.3</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -134,9 +134,9 @@
 			<State>AZ</State>
 			<Zip>85295</Zip>			
 		</Address>
-		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		<Rating>4.6</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -151,9 +151,9 @@
 			<State>AZ</State>
 			<Zip>85212</Zip>			
 		</Address>
-		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 		<Rating>4.4</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Mesa Gateway Airport</NearstAirport>
 	</Hotel>
 
 	<Hotel>
@@ -168,9 +168,9 @@
 			<State>AZ</State>
 			<Zip>85254</Zip>			
 		</Address>
-		<NearstAirport>Scottsdale Airport</NearstAirport>
 		<Rating>4.6</Rating>
 		<!-- Rating associated to Hotels star ratings -->
+		<NearstAirport>Scottsdale Airport</NearstAirport>
 	</Hotel>
 </Hotels>
 <!-- End of Hotels.xml -->
