@@ -1,9 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-            xmlns="http://magonz73.github.io/repo" 
-            targetNamespace="http://magonz73.github.io/repo" 
-            elementFormDefault="qualified" 
-            attributeFormDefault="unqualified">
-
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <xsd:element name="Hotels">
     <xsd:complexType>
       <xsd:sequence>
