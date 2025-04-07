@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-    xmlns="http://magonz73.github.io/repo" 
-    targetNamespace="http://magonz73.github.io/repo" 
+    xmlns="https://magonz73.github.io/repo" 
+    targetNamespace="https://magonz73.github.io/repo" 
     elementFormDefault="qualified" 
     attributeFormDefault="unqualified">
   <xs:element name="Hotels">
