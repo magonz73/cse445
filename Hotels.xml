@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
-<Hotels>
-	<Hotel NearstAirport="SkyHarbor" Rating="4.2">
+<Hotels xmlns="http://username.github.io/repo"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://username.github.io/repo Hotels.xsd">
+  <Hotel NearstAirport="Sky Harbor" Rating="4.2">
 		<!-- Represents an individual hotel and mutliple hotels are allowed in the Hotels directory -->
 		<Name>Westin</Name>
 		<!-- Name of hotel -->
