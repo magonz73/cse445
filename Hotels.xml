@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
-<Hotels>
+<Hotels
+	xmlns ="http://venus.sod.asu.edu/WSRepository/xml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
 	<Hotel NearstAirport="Sky Harbor" Rating="4.2">
 		<!-- Represents an individual hotel and mutliple hotels are allowed in the Hotels directory -->
 		<Name>Westin</Name>
