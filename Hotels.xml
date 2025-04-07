@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
-<Hotels xmlns="https://magonz73.github.io/repo"
-        xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="https://magonz73.github.io/repo Hotels.xsd">
+<Hotels>
 	<Hotel NearstAirport="SkyHarbor" Rating="4.2">
 		<!-- Represents an individual hotel and mutliple hotels are allowed in the Hotels directory -->
 		<Name>Westin</Name>
